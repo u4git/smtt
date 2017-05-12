@@ -1,0 +1,32 @@
+products:
+   smtt/src/test/java/org/apache/spark/smtt/JSMTTTest.java -> smtt/target/test-classes/org/apache/spark/smtt/JSMTTTest.class
+   smtt/src/test/java/org/apache/spark/smtt/entity/FieldByteObj.java -> smtt/target/test-classes/org/apache/spark/smtt/entity/FieldByteObj.class
+   smtt/src/test/java/org/apache/spark/smtt/entity/ObjTest.java -> smtt/target/test-classes/org/apache/spark/smtt/entity/ObjTest.class
+   smtt/src/test/java/org/apache/spark/smtt/entity/TracerTest.java -> smtt/target/test-classes/org/apache/spark/smtt/entity/TracerTest.class
+   smtt/src/test/java/org/apache/spark/smtt/jni/ProcJniTest.java -> smtt/target/test-classes/org/apache/spark/smtt/jni/ProcJniTest.class
+binary dependencies:
+   smtt/src/test/java/org/apache/spark/smtt/JSMTTTest.java -> /usr/local/bin/jdk1.8.0_121/jre/lib/rt.jar
+   smtt/src/test/java/org/apache/spark/smtt/entity/FieldByteObj.java -> /usr/local/bin/jdk1.8.0_121/jre/lib/rt.jar
+   smtt/src/test/java/org/apache/spark/smtt/entity/ObjTest.java -> /usr/local/bin/jdk1.8.0_121/jre/lib/rt.jar
+   smtt/src/test/java/org/apache/spark/smtt/entity/TracerTest.java -> /usr/local/bin/jdk1.8.0_121/jre/lib/rt.jar
+   smtt/src/test/java/org/apache/spark/smtt/jni/ProcJniTest.java -> /usr/local/bin/jdk1.8.0_121/jre/lib/rt.jar
+source dependencies:
+   smtt/src/test/java/org/apache/spark/smtt/JSMTTTest.java -> smtt/src/test/java/org/apache/spark/smtt/JSMTTTest.java
+   smtt/src/test/java/org/apache/spark/smtt/entity/FieldByteObj.java -> smtt/src/test/java/org/apache/spark/smtt/entity/FieldByteObj.java
+   smtt/src/test/java/org/apache/spark/smtt/entity/ObjTest.java -> smtt/src/test/java/org/apache/spark/smtt/entity/ObjTest.java
+   smtt/src/test/java/org/apache/spark/smtt/entity/TracerTest.java -> smtt/src/test/java/org/apache/spark/smtt/entity/ObjTest.java
+   smtt/src/test/java/org/apache/spark/smtt/entity/TracerTest.java -> smtt/src/test/java/org/apache/spark/smtt/entity/TracerTest.java
+   smtt/src/test/java/org/apache/spark/smtt/jni/ProcJniTest.java -> smtt/src/test/java/org/apache/spark/smtt/jni/ProcJniTest.java
+external dependencies:
+   smtt/src/test/java/org/apache/spark/smtt/JSMTTTest.java -> org.apache.spark.smtt.JSMTT
+   smtt/src/test/java/org/apache/spark/smtt/entity/TracerTest.java -> org.apache.spark.smtt.entity.Tracer
+   smtt/src/test/java/org/apache/spark/smtt/entity/TracerTest.java -> org.apache.spark.smtt.unsafe.UnsafeManager
+   smtt/src/test/java/org/apache/spark/smtt/jni/ProcJniTest.java -> org.apache.spark.smtt.entity.vo.PageInfo
+   smtt/src/test/java/org/apache/spark/smtt/jni/ProcJniTest.java -> org.apache.spark.smtt.jni.ProcJni
+   smtt/src/test/java/org/apache/spark/smtt/jni/ProcJniTest.java -> org.apache.spark.smtt.unsafe.UnsafeManager
+class names:
+   smtt/src/test/java/org/apache/spark/smtt/JSMTTTest.java -> org.apache.spark.smtt.JSMTTTest
+   smtt/src/test/java/org/apache/spark/smtt/entity/FieldByteObj.java -> org.apache.spark.smtt.entity.FieldByteObj
+   smtt/src/test/java/org/apache/spark/smtt/entity/ObjTest.java -> org.apache.spark.smtt.entity.ObjTest
+   smtt/src/test/java/org/apache/spark/smtt/entity/TracerTest.java -> org.apache.spark.smtt.entity.TracerTest
+   smtt/src/test/java/org/apache/spark/smtt/jni/ProcJniTest.java -> org.apache.spark.smtt.jni.ProcJniTest

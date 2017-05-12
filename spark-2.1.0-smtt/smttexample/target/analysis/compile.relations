@@ -1,0 +1,25 @@
+products:
+   smttexample/src/main/scala/org/apache/spark/smttexample/pagerank/DataGenerator.scala -> smttexample/target/classes/org/apache/spark/smttexample/pagerank/DataGenerator$$anonfun$deleteDir$1.class
+   smttexample/src/main/scala/org/apache/spark/smttexample/pagerank/DataGenerator.scala -> smttexample/target/classes/org/apache/spark/smttexample/pagerank/DataGenerator$$anonfun$main$1.class
+   smttexample/src/main/scala/org/apache/spark/smttexample/pagerank/DataGenerator.scala -> smttexample/target/classes/org/apache/spark/smttexample/pagerank/DataGenerator$.class
+   smttexample/src/main/scala/org/apache/spark/smttexample/pagerank/DataGenerator.scala -> smttexample/target/classes/org/apache/spark/smttexample/pagerank/DataGenerator.class
+   smttexample/src/main/scala/org/apache/spark/smttexample/pagerank/PagerankApp.scala -> smttexample/target/classes/org/apache/spark/smttexample/pagerank/PagerankApp$.class
+   smttexample/src/main/scala/org/apache/spark/smttexample/pagerank/PagerankApp.scala -> smttexample/target/classes/org/apache/spark/smttexample/pagerank/PagerankApp.class
+binary dependencies:
+   smttexample/src/main/scala/org/apache/spark/smttexample/pagerank/DataGenerator.scala -> /root/.m2/repository/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8.jar
+   smttexample/src/main/scala/org/apache/spark/smttexample/pagerank/DataGenerator.scala -> core/target/spark-core_2.11-2.1.0.jar
+   smttexample/src/main/scala/org/apache/spark/smttexample/pagerank/DataGenerator.scala -> graphx/target/spark-graphx_2.11-2.1.0.jar
+   smttexample/src/main/scala/org/apache/spark/smttexample/pagerank/DataGenerator.scala -> /usr/local/bin/jdk1.8.0_121/jre/lib/rt.jar
+   smttexample/src/main/scala/org/apache/spark/smttexample/pagerank/PagerankApp.scala -> /root/.m2/repository/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8.jar
+   smttexample/src/main/scala/org/apache/spark/smttexample/pagerank/PagerankApp.scala -> core/target/spark-core_2.11-2.1.0.jar
+   smttexample/src/main/scala/org/apache/spark/smttexample/pagerank/PagerankApp.scala -> graphx/target/spark-graphx_2.11-2.1.0.jar
+   smttexample/src/main/scala/org/apache/spark/smttexample/pagerank/PagerankApp.scala -> /usr/local/bin/jdk1.8.0_121/jre/lib/rt.jar
+source dependencies:
+external dependencies:
+class names:
+   smttexample/src/main/scala/org/apache/spark/smttexample/pagerank/DataGenerator.scala -> org.apache.spark.smttexample.pagerank.DataGenerator
+   smttexample/src/main/scala/org/apache/spark/smttexample/pagerank/DataGenerator.scala -> org.apache.spark.smttexample.pagerank.DataGenerator$
+   smttexample/src/main/scala/org/apache/spark/smttexample/pagerank/DataGenerator.scala -> org.apache.spark.smttexample.pagerank.DataGenerator$$anonfun$deleteDir$1
+   smttexample/src/main/scala/org/apache/spark/smttexample/pagerank/DataGenerator.scala -> org.apache.spark.smttexample.pagerank.DataGenerator$$anonfun$main$1
+   smttexample/src/main/scala/org/apache/spark/smttexample/pagerank/PagerankApp.scala -> org.apache.spark.smttexample.pagerank.PagerankApp
+   smttexample/src/main/scala/org/apache/spark/smttexample/pagerank/PagerankApp.scala -> org.apache.spark.smttexample.pagerank.PagerankApp$

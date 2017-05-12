@@ -1,0 +1,3 @@
+/root/working/spark/spark-2.1.0-smtt/external/kafka-0-8/src/test/java/org/apache/spark/streaming/kafka/JavaDirectKafkaStreamSuite.java
+/root/working/spark/spark-2.1.0-smtt/external/kafka-0-8/src/test/java/org/apache/spark/streaming/kafka/JavaKafkaRDDSuite.java
+/root/working/spark/spark-2.1.0-smtt/external/kafka-0-8/src/test/java/org/apache/spark/streaming/kafka/JavaKafkaStreamSuite.java

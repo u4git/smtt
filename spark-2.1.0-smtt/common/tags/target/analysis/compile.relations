@@ -1,0 +1,52 @@
+products:
+   common/tags/src/main/java/org/apache/spark/annotation/AlphaComponent.java -> common/tags/target/scala-2.11/classes/org/apache/spark/annotation/AlphaComponent.class
+   common/tags/src/main/java/org/apache/spark/annotation/DeveloperApi.java -> common/tags/target/scala-2.11/classes/org/apache/spark/annotation/DeveloperApi.class
+   common/tags/src/main/java/org/apache/spark/annotation/Experimental.java -> common/tags/target/scala-2.11/classes/org/apache/spark/annotation/Experimental.class
+   common/tags/src/main/java/org/apache/spark/annotation/InterfaceStability.java -> common/tags/target/scala-2.11/classes/org/apache/spark/annotation/InterfaceStability$Evolving.class
+   common/tags/src/main/java/org/apache/spark/annotation/InterfaceStability.java -> common/tags/target/scala-2.11/classes/org/apache/spark/annotation/InterfaceStability$Stable.class
+   common/tags/src/main/java/org/apache/spark/annotation/InterfaceStability.java -> common/tags/target/scala-2.11/classes/org/apache/spark/annotation/InterfaceStability$Unstable.class
+   common/tags/src/main/java/org/apache/spark/annotation/InterfaceStability.java -> common/tags/target/scala-2.11/classes/org/apache/spark/annotation/InterfaceStability.class
+   common/tags/src/main/java/org/apache/spark/annotation/Private.java -> common/tags/target/scala-2.11/classes/org/apache/spark/annotation/Private.class
+   common/tags/src/main/java/org/apache/spark/tags/DockerTest.java -> common/tags/target/scala-2.11/classes/org/apache/spark/tags/DockerTest.class
+   common/tags/src/main/java/org/apache/spark/tags/ExtendedHiveTest.java -> common/tags/target/scala-2.11/classes/org/apache/spark/tags/ExtendedHiveTest.class
+   common/tags/src/main/java/org/apache/spark/tags/ExtendedYarnTest.java -> common/tags/target/scala-2.11/classes/org/apache/spark/tags/ExtendedYarnTest.class
+   common/tags/src/main/scala/org/apache/spark/annotation/Since.scala -> common/tags/target/scala-2.11/classes/org/apache/spark/annotation/Since.class
+   common/tags/src/main/scala/org/apache/spark/annotation/package.scala -> common/tags/target/scala-2.11/classes/org/apache/spark/annotation/package$.class
+   common/tags/src/main/scala/org/apache/spark/annotation/package.scala -> common/tags/target/scala-2.11/classes/org/apache/spark/annotation/package.class
+binary dependencies:
+   common/tags/src/main/java/org/apache/spark/annotation/AlphaComponent.java -> /usr/local/bin/jdk1.8.0_121/jre/lib/rt.jar
+   common/tags/src/main/java/org/apache/spark/annotation/DeveloperApi.java -> /usr/local/bin/jdk1.8.0_121/jre/lib/rt.jar
+   common/tags/src/main/java/org/apache/spark/annotation/Experimental.java -> /usr/local/bin/jdk1.8.0_121/jre/lib/rt.jar
+   common/tags/src/main/java/org/apache/spark/annotation/InterfaceStability.java -> /usr/local/bin/jdk1.8.0_121/jre/lib/rt.jar
+   common/tags/src/main/java/org/apache/spark/annotation/Private.java -> /usr/local/bin/jdk1.8.0_121/jre/lib/rt.jar
+   common/tags/src/main/java/org/apache/spark/tags/DockerTest.java -> /usr/local/bin/jdk1.8.0_121/jre/lib/rt.jar
+   common/tags/src/main/java/org/apache/spark/tags/ExtendedHiveTest.java -> /usr/local/bin/jdk1.8.0_121/jre/lib/rt.jar
+   common/tags/src/main/java/org/apache/spark/tags/ExtendedYarnTest.java -> /usr/local/bin/jdk1.8.0_121/jre/lib/rt.jar
+   common/tags/src/main/scala/org/apache/spark/annotation/Since.scala -> /root/.m2/repository/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8.jar
+   common/tags/src/main/scala/org/apache/spark/annotation/Since.scala -> /usr/local/bin/jdk1.8.0_121/jre/lib/rt.jar
+   common/tags/src/main/scala/org/apache/spark/annotation/package.scala -> /usr/local/bin/jdk1.8.0_121/jre/lib/rt.jar
+source dependencies:
+   common/tags/src/main/java/org/apache/spark/annotation/AlphaComponent.java -> common/tags/src/main/java/org/apache/spark/annotation/AlphaComponent.java
+   common/tags/src/main/java/org/apache/spark/annotation/DeveloperApi.java -> common/tags/src/main/java/org/apache/spark/annotation/DeveloperApi.java
+   common/tags/src/main/java/org/apache/spark/annotation/Experimental.java -> common/tags/src/main/java/org/apache/spark/annotation/Experimental.java
+   common/tags/src/main/java/org/apache/spark/annotation/InterfaceStability.java -> common/tags/src/main/java/org/apache/spark/annotation/InterfaceStability.java
+   common/tags/src/main/java/org/apache/spark/annotation/Private.java -> common/tags/src/main/java/org/apache/spark/annotation/Private.java
+   common/tags/src/main/java/org/apache/spark/tags/DockerTest.java -> common/tags/src/main/java/org/apache/spark/tags/DockerTest.java
+   common/tags/src/main/java/org/apache/spark/tags/ExtendedHiveTest.java -> common/tags/src/main/java/org/apache/spark/tags/ExtendedHiveTest.java
+   common/tags/src/main/java/org/apache/spark/tags/ExtendedYarnTest.java -> common/tags/src/main/java/org/apache/spark/tags/ExtendedYarnTest.java
+external dependencies:
+class names:
+   common/tags/src/main/java/org/apache/spark/annotation/AlphaComponent.java -> org.apache.spark.annotation.AlphaComponent
+   common/tags/src/main/java/org/apache/spark/annotation/DeveloperApi.java -> org.apache.spark.annotation.DeveloperApi
+   common/tags/src/main/java/org/apache/spark/annotation/Experimental.java -> org.apache.spark.annotation.Experimental
+   common/tags/src/main/java/org/apache/spark/annotation/InterfaceStability.java -> org.apache.spark.annotation.InterfaceStability
+   common/tags/src/main/java/org/apache/spark/annotation/InterfaceStability.java -> org.apache.spark.annotation.InterfaceStability$Evolving
+   common/tags/src/main/java/org/apache/spark/annotation/InterfaceStability.java -> org.apache.spark.annotation.InterfaceStability$Stable
+   common/tags/src/main/java/org/apache/spark/annotation/InterfaceStability.java -> org.apache.spark.annotation.InterfaceStability$Unstable
+   common/tags/src/main/java/org/apache/spark/annotation/Private.java -> org.apache.spark.annotation.Private
+   common/tags/src/main/java/org/apache/spark/tags/DockerTest.java -> org.apache.spark.tags.DockerTest
+   common/tags/src/main/java/org/apache/spark/tags/ExtendedHiveTest.java -> org.apache.spark.tags.ExtendedHiveTest
+   common/tags/src/main/java/org/apache/spark/tags/ExtendedYarnTest.java -> org.apache.spark.tags.ExtendedYarnTest
+   common/tags/src/main/scala/org/apache/spark/annotation/Since.scala -> org.apache.spark.annotation.Since
+   common/tags/src/main/scala/org/apache/spark/annotation/package.scala -> org.apache.spark.annotation.package
+   common/tags/src/main/scala/org/apache/spark/annotation/package.scala -> org.apache.spark.annotation.package$

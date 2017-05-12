@@ -1,0 +1,5 @@
+/root/working/spark/spark-2.1.0-smtt/streaming/src/main/scala/org/apache/spark/streaming/dstream/package-info.java
+/root/working/spark/spark-2.1.0-smtt/streaming/src/main/java/org/apache/spark/streaming/StreamingContextState.java
+/root/working/spark/spark-2.1.0-smtt/streaming/src/main/java/org/apache/spark/streaming/util/WriteAheadLog.java
+/root/working/spark/spark-2.1.0-smtt/streaming/src/main/scala/org/apache/spark/streaming/api/java/package-info.java
+/root/working/spark/spark-2.1.0-smtt/streaming/src/main/java/org/apache/spark/streaming/util/WriteAheadLogRecordHandle.java

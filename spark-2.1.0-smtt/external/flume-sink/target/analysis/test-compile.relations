@@ -1,0 +1,44 @@
+products:
+   external/flume-sink/src/test/scala/org/apache/spark/streaming/flume/sink/SparkSinkSuite.scala -> external/flume-sink/target/scala-2.11/test-classes/org/apache/spark/streaming/flume/sink/SparkSinkSuite$$anonfun$1.class
+   external/flume-sink/src/test/scala/org/apache/spark/streaming/flume/sink/SparkSinkSuite.scala -> external/flume-sink/target/scala-2.11/test-classes/org/apache/spark/streaming/flume/sink/SparkSinkSuite$$anonfun$2.class
+   external/flume-sink/src/test/scala/org/apache/spark/streaming/flume/sink/SparkSinkSuite.scala -> external/flume-sink/target/scala-2.11/test-classes/org/apache/spark/streaming/flume/sink/SparkSinkSuite$$anonfun$3.class
+   external/flume-sink/src/test/scala/org/apache/spark/streaming/flume/sink/SparkSinkSuite.scala -> external/flume-sink/target/scala-2.11/test-classes/org/apache/spark/streaming/flume/sink/SparkSinkSuite$$anonfun$4.class
+   external/flume-sink/src/test/scala/org/apache/spark/streaming/flume/sink/SparkSinkSuite.scala -> external/flume-sink/target/scala-2.11/test-classes/org/apache/spark/streaming/flume/sink/SparkSinkSuite$$anonfun$5.class
+   external/flume-sink/src/test/scala/org/apache/spark/streaming/flume/sink/SparkSinkSuite.scala -> external/flume-sink/target/scala-2.11/test-classes/org/apache/spark/streaming/flume/sink/SparkSinkSuite$$anonfun$org$apache$spark$streaming$flume$sink$SparkSinkSuite$$getTransceiverAndClient$1.class
+   external/flume-sink/src/test/scala/org/apache/spark/streaming/flume/sink/SparkSinkSuite.scala -> external/flume-sink/target/scala-2.11/test-classes/org/apache/spark/streaming/flume/sink/SparkSinkSuite$$anonfun$org$apache$spark$streaming$flume$sink$SparkSinkSuite$$putEvents$1.class
+   external/flume-sink/src/test/scala/org/apache/spark/streaming/flume/sink/SparkSinkSuite.scala -> external/flume-sink/target/scala-2.11/test-classes/org/apache/spark/streaming/flume/sink/SparkSinkSuite$$anonfun$testMultipleConsumers$1.class
+   external/flume-sink/src/test/scala/org/apache/spark/streaming/flume/sink/SparkSinkSuite.scala -> external/flume-sink/target/scala-2.11/test-classes/org/apache/spark/streaming/flume/sink/SparkSinkSuite$$anonfun$testMultipleConsumers$2$$anonfun$apply$1.class
+   external/flume-sink/src/test/scala/org/apache/spark/streaming/flume/sink/SparkSinkSuite.scala -> external/flume-sink/target/scala-2.11/test-classes/org/apache/spark/streaming/flume/sink/SparkSinkSuite$$anonfun$testMultipleConsumers$2$$anonfun$apply$2.class
+   external/flume-sink/src/test/scala/org/apache/spark/streaming/flume/sink/SparkSinkSuite.scala -> external/flume-sink/target/scala-2.11/test-classes/org/apache/spark/streaming/flume/sink/SparkSinkSuite$$anonfun$testMultipleConsumers$2.class
+   external/flume-sink/src/test/scala/org/apache/spark/streaming/flume/sink/SparkSinkSuite.scala -> external/flume-sink/target/scala-2.11/test-classes/org/apache/spark/streaming/flume/sink/SparkSinkSuite$$anonfun$testMultipleConsumers$3.class
+   external/flume-sink/src/test/scala/org/apache/spark/streaming/flume/sink/SparkSinkSuite.scala -> external/flume-sink/target/scala-2.11/test-classes/org/apache/spark/streaming/flume/sink/SparkSinkSuite.class
+binary dependencies:
+   external/flume-sink/src/test/scala/org/apache/spark/streaming/flume/sink/SparkSinkSuite.scala -> /root/.m2/repository/io/netty/netty/3.4.0.Final/netty-3.4.0.Final.jar
+   external/flume-sink/src/test/scala/org/apache/spark/streaming/flume/sink/SparkSinkSuite.scala -> /root/.m2/repository/org/apache/avro/avro-ipc/1.7.7/avro-ipc-1.7.7.jar
+   external/flume-sink/src/test/scala/org/apache/spark/streaming/flume/sink/SparkSinkSuite.scala -> /root/.m2/repository/org/apache/flume/flume-ng-configuration/1.6.0/flume-ng-configuration-1.6.0.jar
+   external/flume-sink/src/test/scala/org/apache/spark/streaming/flume/sink/SparkSinkSuite.scala -> /root/.m2/repository/org/apache/flume/flume-ng-core/1.6.0/flume-ng-core-1.6.0.jar
+   external/flume-sink/src/test/scala/org/apache/spark/streaming/flume/sink/SparkSinkSuite.scala -> /root/.m2/repository/org/apache/flume/flume-ng-sdk/1.6.0/flume-ng-sdk-1.6.0.jar
+   external/flume-sink/src/test/scala/org/apache/spark/streaming/flume/sink/SparkSinkSuite.scala -> /root/.m2/repository/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8.jar
+   external/flume-sink/src/test/scala/org/apache/spark/streaming/flume/sink/SparkSinkSuite.scala -> /root/.m2/repository/org/scalatest/scalatest_2.11/2.2.6/scalatest_2.11-2.2.6.jar
+   external/flume-sink/src/test/scala/org/apache/spark/streaming/flume/sink/SparkSinkSuite.scala -> /usr/local/bin/jdk1.8.0_121/jre/lib/rt.jar
+source dependencies:
+external dependencies:
+   external/flume-sink/src/test/scala/org/apache/spark/streaming/flume/sink/SparkSinkSuite.scala -> org.apache.spark.streaming.flume.sink.EventBatch
+   external/flume-sink/src/test/scala/org/apache/spark/streaming/flume/sink/SparkSinkSuite.scala -> org.apache.spark.streaming.flume.sink.SparkFlumeProtocol
+   external/flume-sink/src/test/scala/org/apache/spark/streaming/flume/sink/SparkSinkSuite.scala -> org.apache.spark.streaming.flume.sink.SparkSink
+   external/flume-sink/src/test/scala/org/apache/spark/streaming/flume/sink/SparkSinkSuite.scala -> org.apache.spark.streaming.flume.sink.SparkSinkConfig$
+   external/flume-sink/src/test/scala/org/apache/spark/streaming/flume/sink/SparkSinkSuite.scala -> org.apache.spark.streaming.flume.sink.SparkSinkThreadFactory
+class names:
+   external/flume-sink/src/test/scala/org/apache/spark/streaming/flume/sink/SparkSinkSuite.scala -> org.apache.spark.streaming.flume.sink.SparkSinkSuite
+   external/flume-sink/src/test/scala/org/apache/spark/streaming/flume/sink/SparkSinkSuite.scala -> org.apache.spark.streaming.flume.sink.SparkSinkSuite$$anonfun$1
+   external/flume-sink/src/test/scala/org/apache/spark/streaming/flume/sink/SparkSinkSuite.scala -> org.apache.spark.streaming.flume.sink.SparkSinkSuite$$anonfun$2
+   external/flume-sink/src/test/scala/org/apache/spark/streaming/flume/sink/SparkSinkSuite.scala -> org.apache.spark.streaming.flume.sink.SparkSinkSuite$$anonfun$3
+   external/flume-sink/src/test/scala/org/apache/spark/streaming/flume/sink/SparkSinkSuite.scala -> org.apache.spark.streaming.flume.sink.SparkSinkSuite$$anonfun$4
+   external/flume-sink/src/test/scala/org/apache/spark/streaming/flume/sink/SparkSinkSuite.scala -> org.apache.spark.streaming.flume.sink.SparkSinkSuite$$anonfun$5
+   external/flume-sink/src/test/scala/org/apache/spark/streaming/flume/sink/SparkSinkSuite.scala -> org.apache.spark.streaming.flume.sink.SparkSinkSuite$$anonfun$org$apache$spark$streaming$flume$sink$SparkSinkSuite$$getTransceiverAndClient$1
+   external/flume-sink/src/test/scala/org/apache/spark/streaming/flume/sink/SparkSinkSuite.scala -> org.apache.spark.streaming.flume.sink.SparkSinkSuite$$anonfun$org$apache$spark$streaming$flume$sink$SparkSinkSuite$$putEvents$1
+   external/flume-sink/src/test/scala/org/apache/spark/streaming/flume/sink/SparkSinkSuite.scala -> org.apache.spark.streaming.flume.sink.SparkSinkSuite$$anonfun$testMultipleConsumers$1
+   external/flume-sink/src/test/scala/org/apache/spark/streaming/flume/sink/SparkSinkSuite.scala -> org.apache.spark.streaming.flume.sink.SparkSinkSuite$$anonfun$testMultipleConsumers$2
+   external/flume-sink/src/test/scala/org/apache/spark/streaming/flume/sink/SparkSinkSuite.scala -> org.apache.spark.streaming.flume.sink.SparkSinkSuite$$anonfun$testMultipleConsumers$2$$anonfun$apply$1
+   external/flume-sink/src/test/scala/org/apache/spark/streaming/flume/sink/SparkSinkSuite.scala -> org.apache.spark.streaming.flume.sink.SparkSinkSuite$$anonfun$testMultipleConsumers$2$$anonfun$apply$2
+   external/flume-sink/src/test/scala/org/apache/spark/streaming/flume/sink/SparkSinkSuite.scala -> org.apache.spark.streaming.flume.sink.SparkSinkSuite$$anonfun$testMultipleConsumers$3

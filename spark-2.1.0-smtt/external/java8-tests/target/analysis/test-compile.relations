@@ -1,0 +1,46 @@
+products:
+   external/java8-tests/src/test/java/test/org/apache/spark/java8/Java8RDDAPISuite.java -> external/java8-tests/target/test-classes/test/org/apache/spark/java8/Java8RDDAPISuite$1.class
+   external/java8-tests/src/test/java/test/org/apache/spark/java8/Java8RDDAPISuite.java -> external/java8-tests/target/test-classes/test/org/apache/spark/java8/Java8RDDAPISuite.class
+   external/java8-tests/src/test/java/test/org/apache/spark/java8/dstream/Java8APISuite.java -> external/java8-tests/target/test-classes/test/org/apache/spark/java8/dstream/Java8APISuite.class
+   external/java8-tests/src/test/java/test/org/apache/spark/java8/sql/Java8DatasetAggregatorSuite.java -> external/java8-tests/target/test-classes/test/org/apache/spark/java8/sql/Java8DatasetAggregatorSuite.class
+   external/java8-tests/src/test/scala/test/org/apache/spark/java8/JDK8ScalaSuite.scala -> external/java8-tests/target/test-classes/test/org/apache/spark/java8/JDK8ScalaSuite$$anonfun$1$$anonfun$apply$mcV$sp$1.class
+   external/java8-tests/src/test/scala/test/org/apache/spark/java8/JDK8ScalaSuite.scala -> external/java8-tests/target/test-classes/test/org/apache/spark/java8/JDK8ScalaSuite$$anonfun$1.class
+   external/java8-tests/src/test/scala/test/org/apache/spark/java8/JDK8ScalaSuite.scala -> external/java8-tests/target/test-classes/test/org/apache/spark/java8/JDK8ScalaSuite.class
+binary dependencies:
+   external/java8-tests/src/test/java/test/org/apache/spark/java8/Java8RDDAPISuite.java -> /root/.m2/repository/com/google/guava/guava/14.0.1/guava-14.0.1.jar
+   external/java8-tests/src/test/java/test/org/apache/spark/java8/Java8RDDAPISuite.java -> /root/.m2/repository/junit/junit/4.12/junit-4.12.jar
+   external/java8-tests/src/test/java/test/org/apache/spark/java8/Java8RDDAPISuite.java -> /root/.m2/repository/org/apache/hadoop/hadoop-common/2.2.0/hadoop-common-2.2.0.jar
+   external/java8-tests/src/test/java/test/org/apache/spark/java8/Java8RDDAPISuite.java -> /root/.m2/repository/org/apache/hadoop/hadoop-mapreduce-client-core/2.2.0/hadoop-mapreduce-client-core-2.2.0.jar
+   external/java8-tests/src/test/java/test/org/apache/spark/java8/Java8RDDAPISuite.java -> /root/.m2/repository/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8.jar
+   external/java8-tests/src/test/java/test/org/apache/spark/java8/Java8RDDAPISuite.java -> core/target/spark-core_2.11-2.1.0.jar
+   external/java8-tests/src/test/java/test/org/apache/spark/java8/Java8RDDAPISuite.java -> /usr/local/bin/jdk1.8.0_121/jre/lib/rt.jar
+   external/java8-tests/src/test/java/test/org/apache/spark/java8/dstream/Java8APISuite.java -> /root/.m2/repository/com/google/guava/guava/14.0.1/guava-14.0.1.jar
+   external/java8-tests/src/test/java/test/org/apache/spark/java8/dstream/Java8APISuite.java -> /root/.m2/repository/junit/junit/4.12/junit-4.12.jar
+   external/java8-tests/src/test/java/test/org/apache/spark/java8/dstream/Java8APISuite.java -> /root/.m2/repository/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8.jar
+   external/java8-tests/src/test/java/test/org/apache/spark/java8/dstream/Java8APISuite.java -> core/target/spark-core_2.11-2.1.0.jar
+   external/java8-tests/src/test/java/test/org/apache/spark/java8/dstream/Java8APISuite.java -> streaming/target/spark-streaming_2.11-2.1.0-tests.jar
+   external/java8-tests/src/test/java/test/org/apache/spark/java8/dstream/Java8APISuite.java -> streaming/target/spark-streaming_2.11-2.1.0.jar
+   external/java8-tests/src/test/java/test/org/apache/spark/java8/dstream/Java8APISuite.java -> /usr/local/bin/jdk1.8.0_121/jre/lib/rt.jar
+   external/java8-tests/src/test/java/test/org/apache/spark/java8/sql/Java8DatasetAggregatorSuite.java -> /root/.m2/repository/junit/junit/4.12/junit-4.12.jar
+   external/java8-tests/src/test/java/test/org/apache/spark/java8/sql/Java8DatasetAggregatorSuite.java -> /root/.m2/repository/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8.jar
+   external/java8-tests/src/test/java/test/org/apache/spark/java8/sql/Java8DatasetAggregatorSuite.java -> sql/core/target/spark-sql_2.11-2.1.0-tests.jar
+   external/java8-tests/src/test/java/test/org/apache/spark/java8/sql/Java8DatasetAggregatorSuite.java -> sql/core/target/spark-sql_2.11-2.1.0.jar
+   external/java8-tests/src/test/java/test/org/apache/spark/java8/sql/Java8DatasetAggregatorSuite.java -> /usr/local/bin/jdk1.8.0_121/jre/lib/rt.jar
+   external/java8-tests/src/test/scala/test/org/apache/spark/java8/JDK8ScalaSuite.scala -> /root/.m2/repository/org/scala-lang/scala-library/2.11.8/scala-library-2.11.8.jar
+   external/java8-tests/src/test/scala/test/org/apache/spark/java8/JDK8ScalaSuite.scala -> /root/.m2/repository/org/scalatest/scalatest_2.11/2.2.6/scalatest_2.11-2.2.6.jar
+   external/java8-tests/src/test/scala/test/org/apache/spark/java8/JDK8ScalaSuite.scala -> core/target/spark-core_2.11-2.1.0-tests.jar
+   external/java8-tests/src/test/scala/test/org/apache/spark/java8/JDK8ScalaSuite.scala -> core/target/spark-core_2.11-2.1.0.jar
+   external/java8-tests/src/test/scala/test/org/apache/spark/java8/JDK8ScalaSuite.scala -> /usr/local/bin/jdk1.8.0_121/jre/lib/rt.jar
+source dependencies:
+   external/java8-tests/src/test/java/test/org/apache/spark/java8/Java8RDDAPISuite.java -> external/java8-tests/src/test/java/test/org/apache/spark/java8/Java8RDDAPISuite.java
+   external/java8-tests/src/test/java/test/org/apache/spark/java8/dstream/Java8APISuite.java -> external/java8-tests/src/test/java/test/org/apache/spark/java8/dstream/Java8APISuite.java
+   external/java8-tests/src/test/java/test/org/apache/spark/java8/sql/Java8DatasetAggregatorSuite.java -> external/java8-tests/src/test/java/test/org/apache/spark/java8/sql/Java8DatasetAggregatorSuite.java
+external dependencies:
+class names:
+   external/java8-tests/src/test/java/test/org/apache/spark/java8/Java8RDDAPISuite.java -> test.org.apache.spark.java8.Java8RDDAPISuite
+   external/java8-tests/src/test/java/test/org/apache/spark/java8/Java8RDDAPISuite.java -> test.org.apache.spark.java8.Java8RDDAPISuite$1
+   external/java8-tests/src/test/java/test/org/apache/spark/java8/dstream/Java8APISuite.java -> test.org.apache.spark.java8.dstream.Java8APISuite
+   external/java8-tests/src/test/java/test/org/apache/spark/java8/sql/Java8DatasetAggregatorSuite.java -> test.org.apache.spark.java8.sql.Java8DatasetAggregatorSuite
+   external/java8-tests/src/test/scala/test/org/apache/spark/java8/JDK8ScalaSuite.scala -> test.org.apache.spark.java8.JDK8ScalaSuite
+   external/java8-tests/src/test/scala/test/org/apache/spark/java8/JDK8ScalaSuite.scala -> test.org.apache.spark.java8.JDK8ScalaSuite$$anonfun$1
+   external/java8-tests/src/test/scala/test/org/apache/spark/java8/JDK8ScalaSuite.scala -> test.org.apache.spark.java8.JDK8ScalaSuite$$anonfun$1$$anonfun$apply$mcV$sp$1
